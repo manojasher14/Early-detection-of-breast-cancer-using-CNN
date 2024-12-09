@@ -1,0 +1,2 @@
+# Early-detection-of-breast-cancer-using-CNN
+ This project uses CNNs to analyze mammography images, detecting early breast cancer by classifying cases as benign or malignant. It identifies critical features like microcalcifications and masses, with preprocessing enhancing data quality. The integration of CNN-LSTM offers a novel, reliable tool to assist radiologists in early diagnosis.
